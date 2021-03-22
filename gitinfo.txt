@@ -1,1 +1,3 @@
 Git is a free and distributed version control system
+
+Git is open source system to track the status of the repositories and files.
